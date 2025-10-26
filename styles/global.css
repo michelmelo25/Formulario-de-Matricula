@@ -45,7 +45,7 @@
   --heading1: 600 2.5rem/1.25 var(--font-family);
   --heading2: 600 1.5rem/1.25 var(--font-family);
   --heading3: 700 20px/120% var(--font-family);
-  --heading4: 700 16px/120% var(--font-family);
+  --heading4: 600 1rem/1.25 var(--font-family);
 
   /* --- Text --- */
   --text: 400 1rem/1.5 var(--font-family);
